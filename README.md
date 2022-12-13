@@ -1,7 +1,7 @@
 <h1>Projeto Easy Shopping</h1>
 <br>
 <br>
-<h2>Esse um projeto que eu aprendi no <i>DevClub</i></h2>
+<h2>Esse é um projeto que eu aprendi no <i>DevClub</i></h2>
 <br>
 <h3>Foi utilizado o HTML, CSS e responsividade.</h3>
 <br>
